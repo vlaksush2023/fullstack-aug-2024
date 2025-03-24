@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`MyButton works as expected 1`] = `
+<div>
+  <button>
+    Submit Me
+  </button>
+</div>
+`;
